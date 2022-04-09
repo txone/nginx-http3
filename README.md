@@ -1,5 +1,5 @@
 # nginx-https
-nginx-quictls-http3.Dockerfile
+nginx-quictls/openssl-http3.Dockerfile
 
 ###### [boringssl]
 https://www.nginx.com/blog/our-roadmap-quic-http-3-support-nginx/
