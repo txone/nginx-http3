@@ -1,7 +1,7 @@
 # nginx-https
 nginx-quictls-http3.Dockerfile
 
-###### [not work]
+###### [boringssl]
 https://www.nginx.com/blog/our-roadmap-quic-http-3-support-nginx/
 
 ###### [from] 
