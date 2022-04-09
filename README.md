@@ -12,6 +12,6 @@ https://community.home-assistant.io/t/nginx-with-quic-http-3/360054
 https://hub.docker.com/_/nginx
 
 [links]
-https://quic.nginx.org/readme.html
-https://github.com/quictls/openssl
-https://hg.nginx.org/nginx-quic
+https://quic.nginx.org/readme.html \n
+https://github.com/quictls/openssl  \n
+https://hg.nginx.org/nginx-quic \n
